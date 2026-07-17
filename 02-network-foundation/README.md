@@ -48,6 +48,14 @@ As a Cloud Engineer, the objective of this lab was to design and deploy the foun
 
 ---
 
+---
+
+## 🏗️ Architecture
+
+![Lab 02 Architecture](architecture.png)
+
+---
+
 ## 📸 Evidence
 
 Implementation screenshots are available in the **evidencias/** folder.
