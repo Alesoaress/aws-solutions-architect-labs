@@ -65,9 +65,9 @@ The objective is to build production-inspired cloud environments while preparing
 | Lab | Status |
 |------|--------|
 | 01 - IAM | ✅ Completed |
-| 02 - VPC | ⏳ In Progress |
-| 03 - EC2 | 🔒 Locked |
-| 04 - S3 | 🔒 Locked |
+| 02 - VPC | ✅ Completed |
+| 03 - S3 | ✅ Completed |
+| 04 -  EC2 | 🔒 Locked |
 | 05 - RDS | 🔒 Locked |
 | 06 - Elastic Load Balancer | 🔒 Locked |
 | 07 - Auto Scaling | 🔒 Locked |
