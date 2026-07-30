@@ -52,7 +52,7 @@ As a Cloud Engineer, the objective of this lab was to design and deploy the foun
 
 ## 🏗️ Architecture
 
-![Lab 02 Architecture](architecture.png)
+![Lab 02 Architecture](lab-02-vpc-foundation-architecture)
 
 ---
 
