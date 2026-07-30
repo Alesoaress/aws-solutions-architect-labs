@@ -21,7 +21,7 @@ This lab demonstrates the implementation of Amazon S3 storage features, focusing
 
 > The architecture diagram will be available below after completion.
 
-![Architecture](architecture.png)
+![Architecture](lab-03-amazon-s3-foundation-architecture.png)
 
 ---
 
