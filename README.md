@@ -2,39 +2,39 @@
 
 Welcome! 👋
 
-This repository documents my practical journey studying AWS Cloud through hands-on labs, real-world scenarios, and AWS best practices.
+This repository documents my hands-on journey learning AWS Cloud through practical labs, real-world scenarios, and AWS best practices.
 
-The objective is to build production-inspired cloud environments while preparing for the AWS Certified Solutions Architect – Associate (SAA-C03) certification and developing a professional Cloud Engineering portfolio.
+The primary goal is to build production-inspired cloud environments while preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** certification and developing a professional Cloud Engineering portfolio.
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
 - Learn AWS through hands-on labs
-- Build secure and scalable cloud architectures
-- Understand AWS best practices
-- Prepare for AWS Certified Solutions Architect – Associate (SAA-C03)
+- Design secure and scalable cloud architectures
+- Apply AWS Well-Architected best practices
+- Prepare for the AWS Certified Solutions Architect – Associate (SAA-C03)
 - Build a professional cloud portfolio
 
 ---
 
-## 🛠️ Technologies & AWS Services
+# 🛠️ Technologies & AWS Services
 
-### ✅ Completed
+## ✅ Completed
 
 - AWS IAM
-
-### ⏳ Currently Studying
-
 - Amazon VPC
-
-### 🔒 Planned
-
-- Amazon EC2
-- Amazon EBS
-- Amazon EFS
 - Amazon S3
 - Amazon RDS
+
+## ⏳ Currently Studying
+
+- Amazon EC2
+
+## 🔒 Planned
+
+- Amazon EBS
+- Amazon EFS
 - Route 53
 - CloudFront
 - Elastic Load Balancer
@@ -50,7 +50,9 @@ The objective is to build production-inspired cloud environments while preparing
 - AWS Secrets Manager
 - AWS KMS
 
-### 🚀 Future Studies
+---
+
+# 🚀 Future Studies
 
 - Docker
 - Terraform
@@ -60,65 +62,65 @@ The objective is to build production-inspired cloud environments while preparing
 
 ---
 
-## 📚 Labs
+# 📚 Labs
 
-| Lab | Status |
-|------|--------|
-| 01 - IAM | ✅ Completed |
-| 02 - VPC | ✅ Completed |
-| 03 - S3 | ✅ Completed |
-| 04 -  EC2 | 🔒 Locked |
-| 05 - RDS | 🔒 Locked |
-| 06 - Elastic Load Balancer | 🔒 Locked |
-| 07 - Auto Scaling | 🔒 Locked |
-| 08 - CloudWatch | 🔒 Locked |
-| 09 - Serverless (Lambda & API Gateway) | 🔒 Locked |
-| 10 - Docker | 🔒 Locked |
-| 11 - Terraform | 🔒 Locked |
-| 12 - CI/CD | 🔒 Locked |
-| 13 - Final Cloud Project | 🔒 Locked |
+| Lab | Description | Status |
+|-----|-------------|--------|
+| 01 | IAM Foundation | ✅ Completed |
+| 02 | VPC Foundation | ✅ Completed |
+| 03 | Amazon S3 Foundation | ✅ Completed |
+| 04 | Amazon RDS Foundation | ✅ Completed |
+| 05 | Amazon EC2 Foundation | 🔒 Locked |
+| 06 | Elastic Load Balancer | 🔒 Locked |
+| 07 | Auto Scaling | 🔒 Locked |
+| 08 | Amazon CloudWatch | 🔒 Locked |
+| 09 | Serverless (Lambda & API Gateway) | 🔒 Locked |
+| 10 | Docker | 🔒 Locked |
+| 11 | Terraform | 🔒 Locked |
+| 12 | CI/CD | 🔒 Locked |
+| 13 | Final Cloud Project | 🔒 Locked |
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 aws-solutions-architect-labs/
 
-├── 01-iam/
-├── 02-vpc/
-├── 03-ec2/
-├── 04-s3/
-├── 05-rds/
-├── 06-elb/
+├── 01-secure-access-management/
+├── 02-network-foundation/
+├── 03-storage-services/
+├── 04-database-services/
+├── 05-compute-services/
+├── 06-load-balancing/
 ├── 07-auto-scaling/
-├── 08-cloudwatch/
+├── 08-monitoring/
 ├── 09-serverless/
 ├── 10-docker/
 ├── 11-terraform/
 ├── 12-ci-cd/
-└── 13-final-project/
+└── 13-final-cloud-project/
 ```
 
 Each lab contains:
 
-- 📄 Documentation
-- 🏗️ Architecture Diagram
-- 📸 Screenshots
-- 📚 Lessons Learned
-- ✅ Best Practices
-- 🚀 Future Improvements
+- 📄 Detailed documentation
+- 🏗️ Architecture diagram
+- 📸 Implementation evidence
+- 📚 Lessons learned
+- ✅ AWS best practices
+- 🚀 Future improvements
 
 ---
 
-## 📌 Certifications
+# 📌 Certifications
 
 - ✅ AWS Certified Cloud Practitioner (CLF-C02)
 - 🎯 Studying for AWS Certified Solutions Architect – Associate (SAA-C03)
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Carlos Alexandre Soares**
 
@@ -126,4 +128,4 @@ Cloud Computing • AWS • DevOps • Infrastructure
 
 ---
 
-⭐ This repository will be continuously updated as new labs are completed.
+⭐ This repository is continuously updated as new AWS labs are completed.
