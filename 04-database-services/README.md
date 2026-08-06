@@ -27,9 +27,9 @@ The objective was not only to create a relational database, but also to understa
 
 # 🏗️ Architecture
 
-> *(The architecture diagram will be added below after completing the documentation.)*
+The following diagram illustrates the Amazon RDS architecture implemented during this lab, including the custom VPC, DB Subnet Group, secure MySQL connectivity, monitoring, encryption, and backup components.
 
-![Architecture](architecture.png)
+![Lab 04 - Amazon RDS Foundation Architecture](architecture.png)
 
 ---
 
